@@ -1,0 +1,15 @@
+{
+    "APP_URL": "http://127.0.0.1:19995",
+    "THREAD": 3,
+    "TYPE": 1,
+    "DELAY": 8,
+    "WIDTH": 400,
+    "HEIGHT": 600,
+    "CAPTCHA": "",
+    "CAPTCHA_KEY": "fe9ca225648242e9bd5627abece4109f",
+    "MAX": 99999999,
+    "ADDRECORVER": "TRUE",
+    "OUPUT": "http://127.0.0.1:19995/add?hotmail=",
+    "FILE_SUCCESS": "SUCCESS",
+    "FILE_FALSE": "FALSE"
+}

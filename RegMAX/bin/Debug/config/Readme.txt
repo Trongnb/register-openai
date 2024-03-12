@@ -1,0 +1,1 @@
+TYPE: 1 là hotmail, 2 là outlock

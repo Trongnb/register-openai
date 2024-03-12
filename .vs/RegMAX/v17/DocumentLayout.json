@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phat\\Desktop\\RegMAX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|c:\\users\\phat\\desktop\\regmax\\regmax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|solutionrelative:regmax\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|C:\\Users\\phat\\Desktop\\RegMAX\\regmax\\sessdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|solutionrelative:regmax\\sessdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|C:\\Users\\phat\\Desktop\\RegMAX\\regmax\\hotmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|solutionrelative:regmax\\hotmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|C:\\Users\\phat\\Desktop\\RegMAX\\regmax\\gpmloginapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|solutionrelative:regmax\\gpmloginapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|C:\\Users\\phat\\Desktop\\RegMAX\\regmax\\sendkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|solutionrelative:regmax\\sendkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|C:\\Users\\phat\\Desktop\\RegMAX\\regmax\\acton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|solutionrelative:regmax\\acton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|C:\\Users\\phat\\Desktop\\RegMAX\\regmax\\createinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|solutionrelative:regmax\\createinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|C:\\Users\\phat\\Desktop\\RegMAX\\regmax\\captcha\\rockcaptcha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|solutionrelative:regmax\\captcha\\rockcaptcha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|C:\\Users\\phat\\Desktop\\RegMAX\\regmax\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|solutionrelative:regmax\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|C:\\Users\\phat\\Desktop\\RegMAX\\regmax\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|solutionrelative:regmax\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\F6\\Desktop\\active.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\bin\\Debug\\config\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RegMAX\\bin\\Debug\\config\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|C:\\Users\\phat\\Desktop\\RegMAX\\regmax\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|solutionrelative:regmax\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phat\\Desktop\\rehotmail\\RegMAX\\RegMAX\\bin\\Debug\\config\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|C:\\Users\\phat\\Desktop\\RegMAX\\regmax\\undectedchromedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6B6E6C2-908A-4070-9AB8-3C077DE12437}|RegMAX\\RegMAX.csproj|solutionrelative:regmax\\undectedchromedriver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sendKey.cs",
+              "DocumentMoniker": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\sendKey.cs",
+              "RelativeDocumentMoniker": "RegMAX\\sendKey.cs",
+              "ToolTip": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\sendKey.cs",
+              "RelativeToolTip": "RegMAX\\sendKey.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T06:41:31.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\phat\\Desktop\\rehotmail\\RegMAX\\RegMAX\\bin\\Debug\\config\\config.json",
+              "RelativeDocumentMoniker": "..\\rehotmail\\RegMAX\\RegMAX\\bin\\Debug\\config\\config.json",
+              "ToolTip": "C:\\Users\\phat\\Desktop\\rehotmail\\RegMAX\\RegMAX\\bin\\Debug\\config\\config.json",
+              "RelativeToolTip": "..\\rehotmail\\RegMAX\\RegMAX\\bin\\Debug\\config\\config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-06T09:47:08.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UndectedChromeDriver.cs",
+              "DocumentMoniker": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\UndectedChromeDriver.cs",
+              "RelativeDocumentMoniker": "RegMAX\\UndectedChromeDriver.cs",
+              "ToolTip": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\UndectedChromeDriver.cs",
+              "RelativeToolTip": "RegMAX\\UndectedChromeDriver.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAwwBYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:48:17.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "manager.cs",
+              "DocumentMoniker": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\manager.cs",
+              "RelativeDocumentMoniker": "RegMAX\\manager.cs",
+              "ToolTip": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\manager.cs",
+              "RelativeToolTip": "RegMAX\\manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:48:14.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessData.cs",
+              "DocumentMoniker": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\SessData.cs",
+              "RelativeDocumentMoniker": "RegMAX\\SessData.cs",
+              "ToolTip": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\SessData.cs",
+              "RelativeToolTip": "RegMAX\\SessData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T06:26:21.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\Data.cs",
+              "RelativeDocumentMoniker": "RegMAX\\Data.cs",
+              "ToolTip": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\Data.cs",
+              "RelativeToolTip": "RegMAX\\Data.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T15:14:35.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\bin\\Debug\\config\\config.json",
+              "RelativeDocumentMoniker": "RegMAX\\bin\\Debug\\config\\config.json",
+              "ToolTip": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\bin\\Debug\\config\\config.json",
+              "RelativeToolTip": "RegMAX\\bin\\Debug\\config\\config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-03T08:57:46.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "active.cs",
+              "DocumentMoniker": "C:\\Users\\F6\\Desktop\\active.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\F6\\Desktop\\active.cs",
+              "ToolTip": "C:\\Users\\F6\\Desktop\\active.cs",
+              "RelativeToolTip": "..\\..\\..\\F6\\Desktop\\active.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T04:51:55.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GPMLoginAPI.cs",
+              "DocumentMoniker": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\GPMLoginAPI.cs",
+              "RelativeDocumentMoniker": "RegMAX\\GPMLoginAPI.cs",
+              "ToolTip": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\GPMLoginAPI.cs",
+              "RelativeToolTip": "RegMAX\\GPMLoginAPI.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAgwE4AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T04:48:12.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rockcaptcha.cs",
+              "DocumentMoniker": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\captcha\\rockcaptcha.cs",
+              "RelativeDocumentMoniker": "RegMAX\\captcha\\rockcaptcha.cs",
+              "ToolTip": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\captcha\\rockcaptcha.cs",
+              "RelativeToolTip": "RegMAX\\captcha\\rockcaptcha.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T14:09:57.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "acton.cs",
+              "DocumentMoniker": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\acton.cs",
+              "RelativeDocumentMoniker": "RegMAX\\acton.cs",
+              "ToolTip": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\acton.cs",
+              "RelativeToolTip": "RegMAX\\acton.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAIwCgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T19:29:19.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\Program.cs",
+              "RelativeDocumentMoniker": "RegMAX\\Program.cs",
+              "ToolTip": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\Program.cs",
+              "RelativeToolTip": "RegMAX\\Program.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAiwGMAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T17:49:58.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "createInfo.cs",
+              "DocumentMoniker": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\createInfo.cs",
+              "RelativeDocumentMoniker": "RegMAX\\createInfo.cs",
+              "ToolTip": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\createInfo.cs",
+              "RelativeToolTip": "RegMAX\\createInfo.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T18:52:07.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hotmail.cs",
+              "DocumentMoniker": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\hotmail.cs",
+              "RelativeDocumentMoniker": "RegMAX\\hotmail.cs",
+              "ToolTip": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\hotmail.cs",
+              "RelativeToolTip": "RegMAX\\hotmail.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T18:49:23.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "request.cs",
+              "DocumentMoniker": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\request.cs",
+              "RelativeDocumentMoniker": "RegMAX\\request.cs",
+              "ToolTip": "C:\\Users\\phat\\Desktop\\RegMAX\\RegMAX\\request.cs",
+              "RelativeToolTip": "RegMAX\\request.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwE8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T18:21:20.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
