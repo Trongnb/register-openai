@@ -41,8 +41,14 @@ namespace RegMAX
     
 
         public UndetectChromeDriver openProfile(int attemp,string createdProfileId,int thread,int x,int y,int width = 350, int height = 700,int limit = 400)
-        { 
-            int z_index = thread % 400;
+        {
+            // Tính số lượng cửa sổ tối đa trên mỗi hàng dựa vào chiều rộng màn hình.
+            int windowsPerRow = 1920 / 300;
+
+            // Tính vị trí x và y dựa vào số thứ tự của luồng.
+            // Chia 'attempt' cho 'windowsPerRow' sẽ cho vị trí hàng, và lấy phần dư sẽ cho vị trí cột.
+            int positionX = ((thread % windowsPerRow) * 800) + (90 * attemp);
+            int positionY = ((thread / windowsPerRow) * 500)+500;
             JObject startedResult = api.Start(createdProfileId);
             if (startedResult != null)
             {
@@ -59,7 +65,8 @@ namespace RegMAX
                 options.BinaryLocation = browserLocation;
                 options.DebuggerAddress = seleniumRemoteDebugAddress;
                 driver = new UndetectChromeDriver(service, options);
-                driver.Manage().Window.Position = new Point(x * Convert.ToInt32(z_index % 17)+300*attemp, y * Convert.ToInt32(z_index / 17));
+                driver.Manage().Window.Position = new Point(positionX, positionY);
+                driver.Manage().Timeouts().ImplicitWait=TimeSpan.FromSeconds(150);
                 driver.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(150);
                 driver.Manage().Window.Size = new Size(width, height);
             }

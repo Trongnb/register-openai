@@ -111,6 +111,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="acton.cs" />
+    <Compile Include="BypassCLF.cs" />
     <Compile Include="captcha\rockcaptcha.cs" />
     <Compile Include="createInfo.cs" />
     <Compile Include="Data.cs" />

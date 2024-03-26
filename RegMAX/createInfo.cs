@@ -33,13 +33,14 @@ namespace RegMAX
             {
                 using (HttpRequest http = new HttpRequest())
                 {
-                    string get = http.Get("https://tpteams.com/hotmail/getAccount.php").ToString();
+                    string get = http.Get($"https://tpteams.com/hotmail/getAccount.php").ToString();
                     JObject obj = JObject.Parse(get);
 
                     if ((bool)obj["success"])
                     {
-                        hotmail.mail = obj["data"]["taikhoan"].ToString();
-                        hotmail.pass = obj["data"]["matkhau"].ToString();
+                      
+                        hotmail.mail = obj["data"]["taikhoan"].ToString().Trim();
+                        hotmail.pass = obj["data"]["matkhau"].ToString().Trim();
                         break;
                     }
                     else

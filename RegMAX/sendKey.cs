@@ -16,25 +16,21 @@ namespace RegMAX
         public static void sendNoEnter(UndetectChromeDriver driver, string css, string inputText)
         {
             IWebElement inputElement = driver.FindElement(By.CssSelector(css));
+            Thread.Sleep(random.Next(200, 500));
             foreach (char c in inputText)
             {
                 // Sử dụng SendKeys để gửi từng ký tự
                 inputElement.SendKeys(c.ToString());
-                Thread.Sleep(random.Next(20, 60));
+                Thread.Sleep(random.Next(70, 150));
             }
           
         }
 
         public static void sendHaveEnter(UndetectChromeDriver driver,string css,string inputText)
         {
-            IWebElement inputElement = driver.FindElement(By.CssSelector(css));
-            foreach (char c in inputText)
-            {
-                // Sử dụng SendKeys để gửi từng ký tự
-                inputElement.SendKeys(c.ToString());
-                Thread.Sleep(random.Next(20,60));
-            }
-            inputElement.SendKeys(Keys.Enter);
+            sendNoEnter(driver, css, inputText);
+            Thread.Sleep(random.Next(60, 100));
+            driver.FindElement(By.CssSelector("#root > div.route-container > div > div.onb-page.onb-uinfo > form > button")).Click();
         }
 
 

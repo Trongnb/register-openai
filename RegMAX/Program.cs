@@ -259,16 +259,18 @@ namespace RegMAX
             }
             //--- quy trinfh 
 
-            driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(20);
+          
             // save(setup["FILE_SUCCESS"].ToString() + $"_{DATA}", mail, typeUp);
             driver.Navigate().GoToUrl("https://platform.openai.com/signup");
       
             try
             {
-                IWebElement inputElement = driver.FindElement(By.CssSelector("body > div > main > section > div > div > div > div.c09ffc6ab.ca83ba8b4 > form.cae724a40.c80c6bdcb.c664f6261 > button"));
+               // driver.FindElement(By.CssSelector("#root > div.route-container > div > div.pheader > div > div.pheader-right > div > div > div")).Click();
+                BypassCLF.Click(driver);//body > div > main > section > div > div > div > div.c7592327d.c986d7274 > form.c594580b4.c0f89e983.caf2adac6 > button
+                IWebElement inputElement = driver.FindElement(By.CssSelector("body > div > main > section > div > div > div > div.caf5d28d5.cb0184a6a > form.c8d6ad364.c1d8ac40d.cf3f8dabc > button"));
                 Thread.Sleep(ransleep());
                 inputElement.Click();
-
+                BypassCLF.Click(driver);
 
                 driver.FindElement(By.CssSelector("#i0116")).SendKeys(mail.mail + Keys.Enter);
 
@@ -292,7 +294,7 @@ namespace RegMAX
                 inputElement = driver.FindElement(By.CssSelector("#idBtn_Accept"));
                 Thread.Sleep(ransleep());
                 inputElement.Click();
-
+                BypassCLF.Click(driver);
 
                 //  sendonecharacter(driver,"input[placeholder='Last name']", name);
                 inputElement = driver.FindElement(By.CssSelector("input[placeholder='Full name']"));
